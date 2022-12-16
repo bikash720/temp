@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="cdnm" # Output Path (Same will be pushed in main also)
-input_url="https://oc518mi.dood.video/u5kj7qgjx7flsdgge7iv4mkelxogovha6ejgct73re2eyo2xp5pqomsmfiba/Code_Name_Tiranga_2022_www.hdmovies50.ink_Hindi%C2%A01080p_NF_HDRip_ESub.mkv.mp4?token=xeyaed24ckmk7m3dqrmf39tx&expiry=1671227976750" # Input direct file url
+input_url="http://103.213.238.85:8090/bollywood/2022/Code%20Name%20Tiranga%20%282022%29/Code%20Name%20Tiranga%20%282022%29%20TELESYNC.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
