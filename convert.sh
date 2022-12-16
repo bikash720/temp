@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="bikash" # Output Path (Same will be pushed in main also)
-input_url="https://cdn11.clicknupload.net:8080/d/4k5xmqbrlryd7tr7fpl5lksjlnqwulmuy7udwmj3wdww5pdgwkecsnbhhwep3usw6muux67g/AVTR2SKMHD (2022) www.SkymoviesHD.boats 1080p HQ S-Print Dual x264 HC-ESub.mp4" # Input direct file url
+input_url="https://aged-sea-e9ea.dodono2195.workers.dev/49683ea184d8925d48bafa28a8d85e91/drivebot.fun/Love.Guru.(2022).S01E01.Hindi.1080p.WEB-DL.[DesiFlix].mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
