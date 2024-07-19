@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="Movie-Play" # Output Path (Same will be pushed in main also)
+output_path="Movie" # Output Path (Same will be pushed in main also)
 input_url="https://pixeldra.in/api/file/9mMkSUyx?download" # Input direct file url
 input_extension="mkv" # Extension of file url
 
