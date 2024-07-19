@@ -2,7 +2,7 @@
 
 output_path="saasa" # Output Path (Same will be pushed in main also)
 input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
-input_extension="mp42" # Extension of file url
+input_extension="mp4" # Extension of file url
 
 
 
