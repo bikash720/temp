@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="big" # Output Path (Same will be pushed in main also)
-input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="movie" # Output Path (Same will be pushed in main also)
+input_url="https://pub-c8d6189347c34e3aa5083705fd8b7450.r2.dev/Bairagee.2022.720p.WeB-DL.HIN-KAN.x264.ESub.Vegamovies.to.mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
